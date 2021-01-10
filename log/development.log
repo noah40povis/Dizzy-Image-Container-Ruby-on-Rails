@@ -1,0 +1,529 @@
+Started GET "/" for 127.0.0.1 at 2021-01-09 11:35:24 -0500
+  [1m[35m (2.3ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/noahchristian/.rvm/gems/ruby-3.0.0/gems/railties-6.1.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/noahchristian/.rvm/gems/ruby-3.0.0/gems/railties-6.1.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 15.7ms | Allocations: 521)
+Completed 200 OK in 48ms (Views: 23.5ms | ActiveRecord: 0.0ms | Allocations: 4395)
+
+
+Started GET "/" for 127.0.0.1 at 2021-01-09 11:37:06 -0500
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/noahchristian/.rvm/gems/ruby-3.0.0/gems/railties-6.1.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/noahchristian/.rvm/gems/ruby-3.0.0/gems/railties-6.1.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 9.2ms | Allocations: 415)
+Completed 200 OK in 19ms (Views: 12.4ms | ActiveRecord: 0.0ms | Allocations: 3070)
+
+
+Started GET "/" for 127.0.0.1 at 2021-01-09 11:42:07 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/noahchristian/.rvm/gems/ruby-3.0.0/gems/railties-6.1.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/noahchristian/.rvm/gems/ruby-3.0.0/gems/railties-6.1.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 20.8ms | Allocations: 219)
+Completed 200 OK in 24ms (Views: 22.3ms | ActiveRecord: 0.0ms | Allocations: 951)
+
+
+Started GET "/" for 127.0.0.1 at 2021-01-09 11:44:40 -0500
+  [1m[35m (9.5ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/noahchristian/.rvm/gems/ruby-3.0.0/gems/railties-6.1.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/noahchristian/.rvm/gems/ruby-3.0.0/gems/railties-6.1.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 20.9ms | Allocations: 415)
+Completed 200 OK in 34ms (Views: 24.4ms | ActiveRecord: 0.0ms | Allocations: 3070)
+
+
+Started GET "/" for 127.0.0.1 at 2021-01-09 11:47:05 -0500
+  [1m[35m (1.6ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/noahchristian/.rvm/gems/ruby-3.0.0/gems/railties-6.1.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/noahchristian/.rvm/gems/ruby-3.0.0/gems/railties-6.1.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 9.4ms | Allocations: 415)
+Completed 200 OK in 24ms (Views: 12.3ms | ActiveRecord: 0.0ms | Allocations: 3071)
+
+
+Started GET "/" for 127.0.0.1 at 2021-01-09 12:17:31 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/noahchristian/.rvm/gems/ruby-3.0.0/gems/railties-6.1.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/noahchristian/.rvm/gems/ruby-3.0.0/gems/railties-6.1.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 53.1ms | Allocations: 219)
+Completed 200 OK in 79ms (Views: 65.6ms | Allocations: 948)
+
+
+Started GET "/" for 127.0.0.1 at 2021-01-09 12:17:37 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/noahchristian/.rvm/gems/ruby-3.0.0/gems/railties-6.1.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/noahchristian/.rvm/gems/ruby-3.0.0/gems/railties-6.1.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 5.5ms | Allocations: 219)
+Completed 200 OK in 7ms (Views: 6.4ms | Allocations: 948)
+
+
+Started GET "/" for 127.0.0.1 at 2021-01-09 12:17:48 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/noahchristian/.rvm/gems/ruby-3.0.0/gems/railties-6.1.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/noahchristian/.rvm/gems/ruby-3.0.0/gems/railties-6.1.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 6.7ms | Allocations: 221)
+Completed 200 OK in 11ms (Views: 8.9ms | Allocations: 946)
+
+
+Started GET "/" for 127.0.0.1 at 2021-01-09 12:29:12 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/noahchristian/.rvm/gems/ruby-3.0.0/gems/railties-6.1.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/noahchristian/.rvm/gems/ruby-3.0.0/gems/railties-6.1.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 12.5ms | Allocations: 218)
+Completed 200 OK in 17ms (Views: 13.4ms | Allocations: 940)
+
+
+Started GET "/" for 127.0.0.1 at 2021-01-09 12:29:13 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/noahchristian/.rvm/gems/ruby-3.0.0/gems/railties-6.1.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/noahchristian/.rvm/gems/ruby-3.0.0/gems/railties-6.1.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.3ms | Allocations: 46)
+Completed 200 OK in 1ms (Views: 0.6ms | Allocations: 409)
+
+
+Started GET "/" for 127.0.0.1 at 2021-01-09 12:32:49 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/noahchristian/.rvm/gems/ruby-3.0.0/gems/railties-6.1.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/noahchristian/.rvm/gems/ruby-3.0.0/gems/railties-6.1.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 14.5ms | Allocations: 219)
+Completed 200 OK in 17ms (Views: 15.7ms | Allocations: 944)
+
+
+Started GET "/" for 127.0.0.1 at 2021-01-09 12:32:50 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/noahchristian/.rvm/gems/ruby-3.0.0/gems/railties-6.1.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/noahchristian/.rvm/gems/ruby-3.0.0/gems/railties-6.1.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.6ms | Allocations: 46)
+Completed 200 OK in 2ms (Views: 1.0ms | Allocations: 408)
+
+
+Started GET "/" for 127.0.0.1 at 2021-01-09 12:33:16 -0500
+  [1m[35m (1.7ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/noahchristian/.rvm/gems/ruby-3.0.0/gems/railties-6.1.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/noahchristian/.rvm/gems/ruby-3.0.0/gems/railties-6.1.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 12.6ms | Allocations: 415)
+Completed 200 OK in 25ms (Views: 16.1ms | ActiveRecord: 0.0ms | Allocations: 3076)
+
+
+Started GET "/" for 127.0.0.1 at 2021-01-09 12:36:57 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/noahchristian/.rvm/gems/ruby-3.0.0/gems/railties-6.1.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/noahchristian/.rvm/gems/ruby-3.0.0/gems/railties-6.1.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 13.6ms | Allocations: 219)
+Completed 200 OK in 20ms (Views: 15.1ms | ActiveRecord: 0.0ms | Allocations: 951)
+
+
+Started GET "/" for 127.0.0.1 at 2021-01-09 12:53:41 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/noahchristian/.rvm/gems/ruby-3.0.0/gems/railties-6.1.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/noahchristian/.rvm/gems/ruby-3.0.0/gems/railties-6.1.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 36.5ms | Allocations: 219)
+Completed 200 OK in 41ms (Views: 38.2ms | Allocations: 946)
+
+
+Started GET "/users/new" for 127.0.0.1 at 2021-01-09 12:53:46 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/users/new"):
+  
+Started GET "/sign_up" for 127.0.0.1 at 2021-01-09 12:54:02 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/sign_up"):
+  
+Started GET "/signup" for 127.0.0.1 at 2021-01-09 12:54:08 -0500
+Processing by UsersController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering users/new.html.erb within layouts/application
+  Rendered users/new.html.erb within layouts/application (Duration: 0.9ms | Allocations: 109)
+  Rendered layout layouts/application.html.erb (Duration: 10.9ms | Allocations: 4121)
+Completed 500 Internal Server Error in 17ms (Allocations: 5309)
+
+
+  
+ActionView::Template::Error (undefined method `full_title' for #<ActionView::Base:0x000000000097b8>):
+    1: <!DOCTYPE html>
+    2: <html>
+    3:   <head>
+    4:     <title><%= full_title(yield(:title)) %></title>
+    5:     <meta charset="utf-8">
+    6:     <%= render 'layouts/rails_default' %>
+    7:     <%= render 'layouts/shim' %>
+  
+app/views/layouts/application.html.erb:4
+Started GET "/signup" for 127.0.0.1 at 2021-01-09 12:56:31 -0500
+Processing by UsersController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering users/new.html.erb within layouts/application
+  Rendered users/new.html.erb within layouts/application (Duration: 0.1ms | Allocations: 40)
+  Rendered layout layouts/application.html.erb (Duration: 2.3ms | Allocations: 1366)
+Completed 500 Internal Server Error in 5ms (Allocations: 1908)
+
+
+  
+ActionView::Template::Error (Missing partial layouts/_rails_default with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby, :jbuilder]}. Searched in:
+  * "/Users/noahchristian/Documents/final_app/picture_app/app/views"
+  * "/Users/noahchristian/.rvm/gems/ruby-3.0.0/gems/actiontext-6.1.1/app/views"
+  * "/Users/noahchristian/.rvm/gems/ruby-3.0.0/gems/actionmailbox-6.1.1/app/views"
+):
+    3:   <head>
+    4:     <title><%= full_title(yield(:title)) %></title>
+    5:     <meta charset="utf-8">
+    6:     <%= render 'layouts/rails_default' %>
+    7:     <%= render 'layouts/shim' %>
+    8:   </head>
+    9:   <body>
+  
+app/views/layouts/application.html.erb:6
+Started GET "/signup" for 127.0.0.1 at 2021-01-09 12:59:30 -0500
+Processing by UsersController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering users/new.html.erb within layouts/application
+  Rendered users/new.html.erb within layouts/application (Duration: 2.0ms | Allocations: 111)
+[Webpacker] Compiling...
+[Webpacker] Compiled all packs in /Users/noahchristian/Documents/final_app/picture_app/public/packs
+[Webpacker] Hash: 415a948d492e21802f43
+Version: webpack 4.45.0
+Time: 1959ms
+Built at: 01/09/2021 12:59:38 PM
+                                     Asset       Size       Chunks                         Chunk Names
+    js/application-d5a3c3b4dce84b5eb605.js    125 KiB  application  [emitted] [immutable]  application
+js/application-d5a3c3b4dce84b5eb605.js.map    139 KiB  application  [emitted] [dev]        application
+                             manifest.json  364 bytes               [emitted]              
+Entrypoint application = js/application-d5a3c3b4dce84b5eb605.js js/application-d5a3c3b4dce84b5eb605.js.map
+[./app/javascript/channels sync recursive _channel\.js$] ./app/javascript/channels sync _channel\.js$ 160 bytes {application} [built]
+[./app/javascript/channels/index.js] 211 bytes {application} [built]
+[./app/javascript/packs/application.js] 492 bytes {application} [built]
+[./node_modules/webpack/buildin/module.js] (webpack)/buildin/module.js 552 bytes {application} [built]
+    + 3 hidden modules
+
+  Rendered layout layouts/application.html.erb (Duration: 7496.6ms | Allocations: 135436)
+Completed 500 Internal Server Error in 7501ms (Allocations: 136554)
+
+
+  
+ActionView::Template::Error (Missing partial layouts/_shim with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby, :jbuilder]}. Searched in:
+  * "/Users/noahchristian/Documents/final_app/picture_app/app/views"
+  * "/Users/noahchristian/.rvm/gems/ruby-3.0.0/gems/actiontext-6.1.1/app/views"
+  * "/Users/noahchristian/.rvm/gems/ruby-3.0.0/gems/actionmailbox-6.1.1/app/views"
+):
+     8:     <%= stylesheet_link_tag 'application', media: 'all',
+     9:     'data-turbolinks-track': 'reload' %>
+    10:     <%= javascript_pack_tag 'application', 'data-turbolinks-track': 'reload' %>
+    11:     <%= render 'layouts/shim' %>
+    12:   </head>
+    13:   <body>
+    14:     <%= render 'layouts/header' %>
+  
+app/views/layouts/application.html.erb:11
+Started GET "/signup" for 127.0.0.1 at 2021-01-09 12:59:58 -0500
+Processing by UsersController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering users/new.html.erb within layouts/application
+  Rendered users/new.html.erb within layouts/application (Duration: 0.3ms | Allocations: 111)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_header.html.erb (Duration: 1.8ms | Allocations: 251)
+  Rendered layouts/_footer.html.erb (Duration: 0.6ms | Allocations: 175)
+  Rendered layout layouts/application.html.erb (Duration: 18.7ms | Allocations: 8315)
+Completed 200 OK in 24ms (Views: 22.6ms | Allocations: 9471)
+
+
+Started GET "/signup" for 127.0.0.1 at 2021-01-09 13:01:32 -0500
+Processing by UsersController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering users/new.html.erb within layouts/application
+  Rendered users/new.html.erb within layouts/application (Duration: 0.6ms | Allocations: 108)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_header.html.erb (Duration: 1.1ms | Allocations: 242)
+  Rendered layouts/_footer.html.erb (Duration: 0.8ms | Allocations: 169)
+  Rendered layout layouts/application.html.erb (Duration: 31.2ms | Allocations: 8156)
+Completed 200 OK in 35ms (Views: 33.5ms | Allocations: 9387)
+
+
+Started GET "/signup" for 127.0.0.1 at 2021-01-09 13:02:30 -0500
+Processing by UsersController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering users/new.html.erb within layouts/application
+  Rendered users/new.html.erb within layouts/application (Duration: 0.9ms | Allocations: 108)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_header.html.erb (Duration: 0.8ms | Allocations: 241)
+  Rendered layouts/_footer.html.erb (Duration: 0.4ms | Allocations: 172)
+  Rendered layout layouts/application.html.erb (Duration: 18.2ms | Allocations: 8158)
+Completed 200 OK in 23ms (Views: 22.1ms | Allocations: 9358)
+
+
+Started GET "/signup" for 127.0.0.1 at 2021-01-09 13:02:46 -0500
+Processing by UsersController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering users/new.html.erb within layouts/application
+  Rendered users/new.html.erb within layouts/application (Duration: 0.5ms | Allocations: 109)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_header.html.erb (Duration: 1.1ms | Allocations: 241)
+  Rendered layouts/_footer.html.erb (Duration: 0.5ms | Allocations: 172)
+  Rendered layout layouts/application.html.erb (Duration: 25.9ms | Allocations: 8158)
+Completed 200 OK in 36ms (Views: 34.8ms | Allocations: 9359)
+
+
+Started GET "/signup" for 127.0.0.1 at 2021-01-09 13:02:48 -0500
+Processing by UsersController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering users/new.html.erb within layouts/application
+  Rendered users/new.html.erb within layouts/application (Duration: 0.1ms | Allocations: 38)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_header.html.erb (Duration: 0.1ms | Allocations: 82)
+  Rendered layouts/_footer.html.erb (Duration: 0.1ms | Allocations: 57)
+  Rendered layout layouts/application.html.erb (Duration: 20.1ms | Allocations: 7368)
+Completed 200 OK in 22ms (Views: 21.0ms | Allocations: 7808)
+
+
+Started GET "/signup" for 127.0.0.1 at 2021-01-09 13:03:22 -0500
+Processing by UsersController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering users/new.html.erb within layouts/application
+  Rendered users/new.html.erb within layouts/application (Duration: 0.1ms | Allocations: 38)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_header.html.erb (Duration: 0.2ms | Allocations: 82)
+  Rendered layouts/_footer.html.erb (Duration: 0.1ms | Allocations: 57)
+  Rendered layout layouts/application.html.erb (Duration: 23.8ms | Allocations: 7338)
+Completed 200 OK in 25ms (Views: 24.7ms | Allocations: 7777)
+
+
+Started GET "/signup" for 127.0.0.1 at 2021-01-09 13:03:26 -0500
+Processing by UsersController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering users/new.html.erb within layouts/application
+  Rendered users/new.html.erb within layouts/application (Duration: 0.1ms | Allocations: 38)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_header.html.erb (Duration: 0.2ms | Allocations: 82)
+  Rendered layouts/_footer.html.erb (Duration: 0.1ms | Allocations: 57)
+  Rendered layout layouts/application.html.erb (Duration: 15.7ms | Allocations: 7266)
+Completed 200 OK in 17ms (Views: 16.3ms | Allocations: 7704)
+
+
+Started GET "/signup" for 127.0.0.1 at 2021-01-09 13:03:37 -0500
+Processing by UsersController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering users/new.html.erb within layouts/application
+  Rendered users/new.html.erb within layouts/application (Duration: 0.4ms | Allocations: 113)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_header.html.erb (Duration: 0.4ms | Allocations: 241)
+  Rendered layouts/_footer.html.erb (Duration: 0.3ms | Allocations: 172)
+  Rendered layout layouts/application.html.erb (Duration: 15.1ms | Allocations: 8165)
+Completed 200 OK in 19ms (Views: 17.6ms | Allocations: 9369)
+
+
+Started GET "/signup" for 127.0.0.1 at 2021-01-09 13:03:42 -0500
+Processing by UsersController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering users/new.html.erb within layouts/application
+  Rendered users/new.html.erb within layouts/application (Duration: 0.2ms | Allocations: 38)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_header.html.erb (Duration: 0.2ms | Allocations: 82)
+  Rendered layouts/_footer.html.erb (Duration: 0.1ms | Allocations: 57)
+  Rendered layout layouts/application.html.erb (Duration: 25.6ms | Allocations: 7266)
+Completed 200 OK in 27ms (Views: 26.0ms | Allocations: 7705)
+
+
+Started GET "/signup" for 127.0.0.1 at 2021-01-09 13:04:32 -0500
+Processing by UsersController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering users/new.html.erb within layouts/application
+  Rendered users/new.html.erb within layouts/application (Duration: 0.4ms | Allocations: 109)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_header.html.erb (Duration: 0.6ms | Allocations: 241)
+  Rendered layouts/_footer.html.erb (Duration: 0.3ms | Allocations: 174)
+  Rendered layout layouts/application.html.erb (Duration: 15.8ms | Allocations: 8160)
+Completed 200 OK in 23ms (Views: 21.2ms | Allocations: 9359)
+
+
+Started GET "/noah.povis@gmail.com" for 127.0.0.1 at 2021-01-09 13:04:33 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/noah.povis@gmail.com"):
+  
+Started GET "/signup" for 127.0.0.1 at 2021-01-09 13:04:36 -0500
+Processing by UsersController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering users/new.html.erb within layouts/application
+  Rendered users/new.html.erb within layouts/application (Duration: 0.1ms | Allocations: 38)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_header.html.erb (Duration: 0.1ms | Allocations: 82)
+  Rendered layouts/_footer.html.erb (Duration: 0.1ms | Allocations: 58)
+  Rendered layout layouts/application.html.erb (Duration: 14.9ms | Allocations: 7362)
+Completed 200 OK in 16ms (Views: 15.5ms | Allocations: 7801)
+
+
+  [1m[35m (1.3ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (1.8ms)[0m  [1m[35mCREATE TABLE "schema_migrations" ("version" varchar NOT NULL PRIMARY KEY)[0m
+  [1m[35m (2.4ms)[0m  [1m[35mCREATE TABLE "ar_internal_metadata" ("key" varchar NOT NULL PRIMARY KEY, "value" varchar, "created_at" datetime(6) NOT NULL, "updated_at" datetime(6) NOT NULL)[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Migrating to CreateUsers (20210109181049)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.4ms)[0m  [1m[35mCREATE TABLE "users" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "name" varchar, "email" varchar, "created_at" datetime(6) NOT NULL, "updated_at" datetime(6) NOT NULL)[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.1ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20210109181049"]]
+  [1m[36mTRANSACTION (1.2ms)[0m  [1m[36mcommit transaction[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ? LIMIT ?[0m  [["key", "environment"], ["LIMIT", 1]]
+  [1m[36mTRANSACTION (0.5ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mActiveRecord::InternalMetadata Create (0.7ms)[0m  [1m[32mINSERT INTO "ar_internal_metadata" ("key", "value", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["key", "environment"], ["value", "development"], ["created_at", "2021-01-09 18:12:40.399656"], ["updated_at", "2021-01-09 18:12:40.399656"]]
+  [1m[36mTRANSACTION (0.9ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (31.9ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+Started GET "/" for 127.0.0.1 at 2021-01-09 14:12:56 -0500
+  [1m[35m (0.9ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/noahchristian/.rvm/gems/ruby-3.0.0/gems/railties-6.1.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/noahchristian/.rvm/gems/ruby-3.0.0/gems/railties-6.1.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 18.9ms | Allocations: 415)
+Completed 200 OK in 57ms (Views: 23.1ms | ActiveRecord: 0.0ms | Allocations: 3185)
+
+
+Started GET "/login" for 127.0.0.1 at 2021-01-09 14:13:05 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/login"):
+  
+Started GET "/login_up" for 127.0.0.1 at 2021-01-09 14:13:50 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/login_up"):
+  
+Started GET "/signup" for 127.0.0.1 at 2021-01-09 14:13:59 -0500
+Processing by UsersController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering users/new.html.erb within layouts/application
+  Rendered users/new.html.erb within layouts/application (Duration: 1.2ms | Allocations: 110)
+[Webpacker] Compiling...
+[Webpacker] Compiled all packs in /Users/noahchristian/Documents/final_app/picture_app/public/packs
+[Webpacker] Hash: 415a948d492e21802f43
+Version: webpack 4.45.0
+Time: 1404ms
+Built at: 01/09/2021 2:14:05 PM
+                                     Asset       Size       Chunks                         Chunk Names
+    js/application-d5a3c3b4dce84b5eb605.js    125 KiB  application  [emitted] [immutable]  application
+js/application-d5a3c3b4dce84b5eb605.js.map    139 KiB  application  [emitted] [dev]        application
+                             manifest.json  364 bytes               [emitted]              
+Entrypoint application = js/application-d5a3c3b4dce84b5eb605.js js/application-d5a3c3b4dce84b5eb605.js.map
+[./app/javascript/channels sync recursive _channel\.js$] ./app/javascript/channels sync _channel\.js$ 160 bytes {application} [built]
+[./app/javascript/channels/index.js] 211 bytes {application} [built]
+[./app/javascript/packs/application.js] 492 bytes {application} [built]
+[./node_modules/webpack/buildin/module.js] (webpack)/buildin/module.js 552 bytes {application} [built]
+    + 3 hidden modules
+
+  Rendered layouts/_header.html.erb (Duration: 0.9ms | Allocations: 252)
+  Rendered layouts/_footer.html.erb (Duration: 0.8ms | Allocations: 179)
+  Rendered layout layouts/application.html.erb (Duration: 5258.0ms | Allocations: 19723)
+Completed 200 OK in 5265ms (Views: 5262.8ms | ActiveRecord: 0.0ms | Allocations: 21006)
+
+
+Started GET "/signup" for 127.0.0.1 at 2021-01-09 15:26:50 -0500
+Processing by UsersController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering users/new.html.erb within layouts/application
+  Rendered users/new.html.erb within layouts/application (Duration: 0.6ms | Allocations: 38)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_header.html.erb (Duration: 0.3ms | Allocations: 82)
+  Rendered layouts/_footer.html.erb (Duration: 0.1ms | Allocations: 58)
+  Rendered layout layouts/application.html.erb (Duration: 141.7ms | Allocations: 7268)
+Completed 200 OK in 152ms (Views: 146.5ms | Allocations: 7712)
+
+
+  [1m[35m (1.4ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.6ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Migrating to AddIndexToUsersEmail (20210109204032)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.8ms)[0m  [1m[35mCREATE UNIQUE INDEX "index_users_on_email" ON "users" ("email")[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.5ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20210109204032"]]
+  [1m[36mTRANSACTION (1.1ms)[0m  [1m[36mcommit transaction[0m
+  [1m[36mActiveRecord::InternalMetadata Load (1.2ms)[0m  [1m[34mSELECT "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ? LIMIT ?[0m  [["key", "environment"], ["LIMIT", 1]]
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (1.2ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Migrating to AddPasswordDigestToUsers (20210109204746)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.6ms)[0m  [1m[35mALTER TABLE "users" ADD "password_digest" varchar[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.3ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20210109204746"]]
+  [1m[36mTRANSACTION (0.7ms)[0m  [1m[36mcommit transaction[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.2ms)[0m  [1m[34mSELECT "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ? LIMIT ?[0m  [["key", "environment"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (1.2ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[36mUser Exists? (0.5ms)[0m  [1m[34mSELECT 1 AS one FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", "noah@example.com"], ["LIMIT", 1]]
+  [1m[35m (1.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[36mUser Exists? (1.1ms)[0m  [1m[34mSELECT 1 AS one FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", "michael@example.com"], ["LIMIT", 1]]
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mUser Exists? (1.3ms)[0m  [1m[34mSELECT 1 AS one FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", "michael@example.com"], ["LIMIT", 1]]
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mrollback transaction[0m
+  [1m[36mUser Exists? (0.3ms)[0m  [1m[34mSELECT 1 AS one FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", "michael@example.com"], ["LIMIT", 1]]
+  [1m[35m (1.3ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mUser Load (0.9ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", "michael@example.com"], ["LIMIT", 1]]
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[35mSAVEPOINT active_record_1[0m
+  [1m[36mUser Exists? (0.2ms)[0m  [1m[34mSELECT 1 AS one FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", "michael@example.com"], ["LIMIT", 1]]
+  [1m[36mUser Create (1.0ms)[0m  [1m[32mINSERT INTO "users" ("name", "email", "created_at", "updated_at", "password_digest") VALUES (?, ?, ?, ?, ?)[0m  [["name", "Michael Hartl"], ["email", "michael@example.com"], ["created_at", "2021-01-09 21:17:12.074703"], ["updated_at", "2021-01-09 21:17:12.074703"], ["password_digest", "$2a$12$.4r1/pTVmoc0roG2DWWmFOtampA6x2brOCwAXEkTPtuDF7Ema4msy"]]
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mRELEASE SAVEPOINT active_record_1[0m
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", "michael@example.com"], ["LIMIT", 1]]
+  [1m[36mTRANSACTION (6.7ms)[0m  [1m[31mrollback transaction[0m
+  [1m[35m (1.3ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mUser Exists? (0.7ms)[0m  [1m[34mSELECT 1 AS one FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", "michael@example.com"], ["LIMIT", 1]]
+  [1m[36mUser Create (0.9ms)[0m  [1m[32mINSERT INTO "users" ("name", "email", "created_at", "updated_at", "password_digest") VALUES (?, ?, ?, ?, ?)[0m  [["name", "Michael Hartl"], ["email", "michael@example.com"], ["created_at", "2021-01-09 21:20:47.519555"], ["updated_at", "2021-01-09 21:20:47.519555"], ["password_digest", "$2a$12$ukXg7JScG1qH0W/nF9AaFOToze1wND7Bq1DtNB61Fttf2crUgZdxy"]]
+  [1m[36mTRANSACTION (0.7ms)[0m  [1m[36mcommit transaction[0m
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT "users".* FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", "michael@example.com"], ["LIMIT", 1]]
+  [1m[35m (1.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT COUNT(*) FROM "users"[0m
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT "users".* FROM "users" ORDER BY "users"."id" ASC LIMIT ?[0m  [["LIMIT", 1]]
+Started GET "/signup" for 127.0.0.1 at 2021-01-09 17:14:31 -0500
+  
+ArgumentError (Missing :controller key on routes definition, please check your routes.):
+  
+config/routes.rb:2:in `block in <main>'
+config/routes.rb:1:in `<main>'
+Started GET "/signup" for 127.0.0.1 at 2021-01-09 17:18:50 -0500
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.8ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  
+ActionController::RoutingError (No route matches [GET] "/signup"):
+  
+Started GET "/signup" for 127.0.0.1 at 2021-01-09 17:18:52 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/signup"):
+  
+Started GET "/signup" for 127.0.0.1 at 2021-01-09 17:18:53 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/signup"):
+  
+Started GET "/" for 127.0.0.1 at 2021-01-09 17:18:57 -0500
+Processing by UsersController#new as HTML
+Completed 500 Internal Server Error in 45ms (ActiveRecord: 0.0ms | Allocations: 3328)
+
+
+  
+LoadError (cannot load such file -- bcrypt):
+  
+app/models/user.rb:8:in `<class:User>'
+app/models/user.rb:1:in `<main>'
+app/controllers/users_controller.rb:9:in `new'
+Started GET "/" for 127.0.0.1 at 2021-01-09 17:35:17 -0500
+  [1m[35m (11.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.6ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by UsersController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering users/new.html.erb within layouts/application
+  Rendered users/new.html.erb within layouts/application (Duration: 1763.2ms | Allocations: 793133)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_header.html.erb (Duration: 0.9ms | Allocations: 261)
+  Rendered layouts/_footer.html.erb (Duration: 0.7ms | Allocations: 179)
+  Rendered layout layouts/application.html.erb (Duration: 3202.9ms | Allocations: 889166)
+Completed 200 OK in 3237ms (Views: 3209.4ms | ActiveRecord: 0.6ms | Allocations: 896771)
+
+
+Started POST "/users" for 127.0.0.1 at 2021-01-09 17:39:06 -0500
+Processing by UsersController#create as HTML
+  Parameters: {"authenticity_token"=>"[FILTERED]", "user"=>{"name"=>"", "email"=>"noah.povis@gmail.com", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]"}, "commit"=>"Create my account"}
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 0.0ms | Allocations: 736)
+
+
+  
+ActiveModel::ForbiddenAttributesError (ActiveModel::ForbiddenAttributesError):
+  
+app/controllers/users_controller.rb:13:in `create'
+Started GET "/" for 127.0.0.1 at 2021-01-09 18:05:15 -0500
+  [1m[35m (0.8ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (0.6ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by UsersController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering users/new.html.erb within layouts/application
+  Rendered users/new.html.erb within layouts/application (Duration: 270.9ms | Allocations: 205665)
+[Webpacker] Everything's up-to-date. Nothing to do
+  Rendered layouts/_header.html.erb (Duration: 0.9ms | Allocations: 258)
+  Rendered layouts/_footer.html.erb (Duration: 0.6ms | Allocations: 179)
+  Rendered layout layouts/application.html.erb (Duration: 394.7ms | Allocations: 224825)
+Completed 200 OK in 422ms (Views: 398.6ms | ActiveRecord: 0.9ms | Allocations: 232507)
+
+
