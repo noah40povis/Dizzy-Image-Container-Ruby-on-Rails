@@ -10,12 +10,20 @@ class UsersController < ApplicationController
   end
 
   def create 
-    @user = User.new(params[:user])
-    if @user.before_save
-    
+    @user = User.new(user_params)
+    if @user.save
+      flash[:success] = "Welcome to Dizzy Image Repo!"
+      redirect_to @user #could also use redirect_to user_url(@user)
     else 
       render 'new'
     end 
   end
+
+  private
+
+    def user_params
+      params.require(:user).permit(:name, :email, :password,
+                                    :password_confirmation)
+    end 
 end
 
