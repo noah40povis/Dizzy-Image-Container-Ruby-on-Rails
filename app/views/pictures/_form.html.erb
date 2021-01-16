@@ -1,0 +1,23 @@
+<%= form_with(model: picture) do |form| %>
+  <% if picture.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(picture.errors.count, "error") %> prohibited this picture from being saved:</h2>
+
+      <ul>
+        <% picture.errors.each do |error| %>
+          <li><%= error.full_message %></li>
+        <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+<div class="field">
+  <%= form.label :images %>
+  <%= form.file_field :images, multiple: true %> 
+
+
+  <div class="actions">
+    <br> 
+    <%= form.submit 'Upload' %> </br> 
+  </div>
+<% end %>

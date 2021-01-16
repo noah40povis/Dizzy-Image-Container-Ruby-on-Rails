@@ -1,0 +1,54 @@
+<p id="notice"><%= notice %></p>
+
+<h1>Pictures</h1>
+
+# <table>
+#   <thead>
+#     <tr>
+#       <th colspan="3"></th>
+#     </tr>
+#   </thead>
+
+#   <tbody>
+#     <% @pictures.each do |picture| %>
+#       <tr>
+#         <td><%= link_to 'Show', picture %></td>
+#         <td><%= link_to 'Edit', edit_picture_path(picture) %></td>
+#         <td><%= link_to 'Destroy', picture, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+#       </tr>
+#     <% end %>
+#   </tbody>
+# </table>
+
+# <br>
+
+# <%= link_to 'New Picture', new_picture_path %>
+
+<table>
+
+  <tbody>
+    <% @pictures.each do |picture| %>
+          <div class="row row-cols-1 row-cols-md-3 g-4">
+          <% picture.images.each do |image|%>
+          <div class="col">
+            <div class="card h-100">
+              <%= image_tag(image, class:'card-img-top') %>
+              <div class="card-body">
+              <h5 class="card-title" contenteditable><%=picture.title %></h5>
+              <p class="card-text" contenteditable><%=picture.body %></p>
+              <p><%= link_to 'Show', picture %></p>
+              <p><%= link_to 'Edit', edit_picture_path(picture) %></p>
+              <p><%= link_to 'Destroy', picture, method: :delete, data: { confirm: 'Are you sure?' } %></p>
+              <a href="#" class="btn btn-primary">Go somewhere</a>
+              </div> 
+            </div>
+          </div>
+        <% end %>
+        </div>  
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Picture', new_picture_path %>

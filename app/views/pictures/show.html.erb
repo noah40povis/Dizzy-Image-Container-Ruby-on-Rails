@@ -1,0 +1,24 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+</p>
+  <div class="row row-cols-1 row-cols-md-3 g-4">
+    <% @picture.images.each do |image|%>
+    <div class="col">
+      <div class="card h-100">
+        <%= image_tag(image, class:'card-img-top') %>
+        <div class="card-body">
+        <h5 class="card-title" contenteditable>Edit title</h5>
+        <p class="card-text" contenteditable>Edit Description.</p>
+        <a href="#" class="btn btn-primary">Go somewhere</a>
+        </div> 
+      </div>
+    </div>
+  <% end %>
+  </div>
+<p>
+
+</p>
+
+<%= link_to 'Edit', edit_picture_path(@picture) %> |
+<%= link_to 'Back', pictures_path %>
