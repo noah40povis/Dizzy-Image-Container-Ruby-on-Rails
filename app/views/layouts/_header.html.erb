@@ -4,7 +4,7 @@
         <nav>
             <ul class="nav navbar-nav navbar-right">
                 <% if logged_in? %> 
-                    <li><%= link_to "Gallery", pictures_path %></li>
+                    <li><%= link_to "Gallery", pictures_url %></li>
                     <li><%= link_to "Upload Image", new_picture_url %></li> 
                     <li class="dropdown">
                         <a href='#' class="dropdown-toggle" data-toggle="dropdown">
