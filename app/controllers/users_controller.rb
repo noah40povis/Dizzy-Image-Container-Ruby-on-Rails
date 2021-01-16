@@ -14,7 +14,7 @@ class UsersController < ApplicationController
     @user = User.new(user_params)
     if @user.save
       flash[:success] = "Welcome to Dizzy Image Repo!"
-      redirect_to @user #could also use redirect_to user_url(@user)
+      redirect_to @pictures_url #could also use redirect_to user_url(@user)
     else 
       render 'new'
     end 

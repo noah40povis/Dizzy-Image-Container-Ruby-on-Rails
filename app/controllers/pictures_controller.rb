@@ -4,7 +4,7 @@ class PicturesController < ApplicationController
   # GET /pictures
   # GET /pictures.json
   def index
-    @pictures = Picture.all
+    @pictures = Picture.where(:user_id => current_user_id)
   end
 
   # GET /pictures/1
@@ -25,9 +25,10 @@ class PicturesController < ApplicationController
   # POST /pictures.json
   def create
     @picture = Picture.new(picture_params)
-
+    @picture.user_id = current_user_id
     respond_to do |format|
       if @picture.save
+
         format.html { redirect_to @picture, notice: 'Picture was successfully created.' }
         format.json { render :show, status: :created, location: @picture }
       else
@@ -41,6 +42,7 @@ class PicturesController < ApplicationController
   # PATCH/PUT /pictures/1.json
   def update
     respond_to do |format|
+      @picture.user_id = current_
       if @picture.update(picture_params)
         format.html { redirect_to @picture, notice: 'Picture was successfully updated.' }
         format.json { render :show, status: :ok, location: @picture }
