@@ -4,11 +4,9 @@
     <% @picture.images.each do |image|%>
     <div class="col">
       <div class="card h-100">
-        <%= image_tag(image, class:'card-img-top') %>
+        <%= image_tag(image, class:'card-img') %>
         <div class="card-body">
-        <h5 class="card-title" contenteditable>Edit title</h5>
-        <p class="card-text" contenteditable>Edit Description.</p>
-        <a href="#" class="btn btn-primary">Go somewhere</a>
+        <%= link_to 'Delete', @picture, method: :delete, data: { confirm: 'Are you sure?' } %></p>
         </div> 
       </div>
     </div>
@@ -17,6 +15,4 @@
 <p>
 
 </p>
-
-<%= link_to 'Edit', edit_picture_path(@picture) %> |
 <%= link_to 'Back', pictures_path %>

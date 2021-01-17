@@ -8,6 +8,11 @@ require("@rails/activestorage").start()
 require("channels")
 require("jquery")
 import "bootstrap"
+//= require jquery
+//= require jquery_ujs
+//= require bootstrap-sprockets
+//= require turbolinks
+//= require_tree .
 
 // import Rails from "@rails/ujs"
 // import Turbolinks from "turbolinks"
