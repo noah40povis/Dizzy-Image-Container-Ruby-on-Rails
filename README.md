@@ -1,26 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Built a front-end web applications using ruby on rails. 
 
-Things you may want to cover:
+The website allows users to create a profile and upload mulitple images to a gallery. 
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
 
 
